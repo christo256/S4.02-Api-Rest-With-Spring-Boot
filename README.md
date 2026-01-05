@@ -78,15 +78,15 @@ The repository is mocked to isolate the business logic
 
 Tests cover:
 
-Fruit creation
+- Fruit creation
 
-Retrieval by ID
+- Retrieval by ID
 
-Retrieval of all fruits
+- Retrieval of all fruits
 
-Deletion
+- Deletion
 
-Exception handling when entities are not found
+- Exception handling when entities are not found
 
 ### 🔍 Integration Tests (Controller Layer)
 
